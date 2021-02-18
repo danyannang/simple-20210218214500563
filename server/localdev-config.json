@@ -1,0 +1,8 @@
+{
+  "watson_speech_to_text_apikey": "z-hAjzpjjcRXOeA3dH_dyyzDX4Wz_oYJgEC3H2BVcIik",
+  "watson_speech_to_text_iam_apikey_description": "Auto-generated for key 23355559-3b24-44ec-a947-6edf3acc0e4d",
+  "watson_speech_to_text_iam_apikey_name": "a396cad2-601f-4659-8682-3553bfd1767d-0",
+  "watson_speech_to_text_iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "watson_speech_to_text_iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/9ac2536688314d1eb60949c533e53497::serviceid:ServiceId-0adf10d5-6410-4fa4-a83c-da534f3627aa",
+  "watson_speech_to_text_url": "https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/a0d36bf0-e501-47bd-820d-90cb73ab3241"
+}

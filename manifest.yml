@@ -1,0 +1,17 @@
+applications:
+- buildpacks:
+  - sdk-for-nodejs
+  domain: null
+  host: null
+  instances: 1
+  memory: 256M
+  name: speech-to-text-code-pattern
+  path: .
+  routes:
+  - route: Speechbetter.us-south.cf.appdomain.cloud
+  services:
+  - sttcp-speech-to-text
+declared-services:
+  sttcp-speech-to-text:
+    label: speech_to_text
+    plan: lite
